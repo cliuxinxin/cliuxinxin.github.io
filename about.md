@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Just like the idea of deep learning
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I don't recall anymore now.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[cliuxinxin@gmail.com](mailto:cliuxinxin@gmail.com)
